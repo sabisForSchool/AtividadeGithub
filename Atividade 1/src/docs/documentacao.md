@@ -1,6 +1,6 @@
 ## Classe: `Calculadora`
 
-### Método: `multiplicacao(numero1, numero1)`
+### Método: `multiplicacao(numero1, numero2)`
 
 **Descrição:**
 Este método realiza a operação de multiplicação entre dois números.
